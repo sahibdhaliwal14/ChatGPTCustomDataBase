@@ -19,7 +19,7 @@ pip install nltk
 pip install pypdf
 
 Part 3:
-You will need to make 2 directories (keep in mind these directories are currently in the repository, they are just empty)
+You will need to make 2 directories 
 1.) the first will be in the directory \ChatGPTCustomDataBase\chatgpt, you will have to create a virtual environment directory called \ChatGPTCustomDataBase\chatgpt\chatgptenv
     - to do so do the follow commands (via linux machine)
     - in the \ChatGPTCustomDataBase\chatgpt directory..
